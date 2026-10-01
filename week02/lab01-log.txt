@@ -1,0 +1,119 @@
+    1  hi
+    2  wsl --status
+    3  python3 --version
+    4  pwd
+    5  ls
+    6  Desktop/
+    7  cd
+    8  pwd
+    9  ls
+   10  cd Desktop/
+   11  ls
+   12  pwd
+   13  ls -a
+   14  ls -l
+   15  pwd
+   16  mkdir
+   17  mkdir coding-cafe
+   18  ls
+   19  cd coding-cafe
+   20  pwd
+   21  clear
+   22  cd
+   23  cd Desktop/
+   24  cd Desktop
+   25  cd Desktop/
+   26  cd
+   27  cd coding-cafe
+   28  cd ..
+   29  cd home
+   30  cd coding-cafe
+   31  cd
+   32  cd coding-cafe
+   33  cd
+   34  cd Desktop/
+   35  cd
+   36  mkdir coding-cafe/week01
+   37  ls
+   38  cd coding-cafe
+   39  ls
+   40  mkdir week02
+   41  ls
+   42  de--cd week01
+   43  cd week01
+   44  cd week02
+   45  cd ..
+   46  week02
+   47  cd week02
+   48  cd ../week01
+   49  cd ../week02
+   50  touch notes.md
+   51  code notes.md
+   52  ls coding-cafe/week02
+   53  cd
+   54  ls coding-cafe/week02
+   55  ls -R coding-cafe
+   56  pwd
+   57  cd
+   58  pwd
+   59  cd coding-cafe
+   60  cd week02
+   61  ls
+   62  open notes.md
+   63  code notes.md
+   64  ls -l
+   65  cd
+   66  ls
+   67  ls -l
+   68  cd
+   69  ls coding-cafe/week02
+   70  ls -R coding-cafe
+   71  cp README.md README-backup.md
+   72  mv README-backup.md week01/
+   73  cd week01
+   74  cd coding-cafe
+   75  cp README.md README-backup.md
+   76  cd week01
+   77  mv README-backup.md old-readme.md
+   78  cd ..
+   79  touch README.md
+   80  ls
+   81  cp README.md README-backup.md
+   82  mv README-backup.md week01/
+   83  cd week01
+   84  mv README-backup.md old-readme.md
+   85  ls
+   86  rm oldreadme.md
+   87  rm old-readme.md
+   88  ls
+   89  cd
+   90  echo $PATH
+   91  which python3
+   92  which pip
+   93  which ls
+   94  pyton3
+   95  cd ~/coding-cafe
+   96  python3 -m venv .venv
+   97  apt install python3.14-venv
+   98  cd
+   99  apt install python3.14-venv
+  100  ta
+  101  sudo apt install python3.14-venv
+  102  source .venv/bin/activate
+  103  pip list
+  104  pip install requests
+  105  pip list
+  106  man ls
+  107  ls -h
+  108  man ls
+  109  ls
+  110  ls -lh
+  111  ls -l
+  112  history
+  113  python3
+  114  history > week02/lab01-log.txt
+  115  pwd
+  116  ls
+  117  man man
+  118  cd coding-cafe
+  119  history > week02/lab01-log.txt
